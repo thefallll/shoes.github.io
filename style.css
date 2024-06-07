@@ -1142,7 +1142,6 @@ h4 {
 /* HEADER END */
 
 /* MAIN START*/
-/* Media queries for responsiveness */
 @media (max-width: 1600px) {
     .container {
         max-width: 1520px;
